@@ -7432,5 +7432,9 @@ message MetricsEvent {
 
     // GZOSP constants
     GZOSP = 4000;
+
+    // CatOS constants
+    CAT = 4200;
+
   }
 }
